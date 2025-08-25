@@ -1,2 +1,9 @@
-# github-final-project
-A simple interest calculator created to practice Git and GitHub best practices while supporting a micro-finance startup’s journey into open source.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input
+  p: principal amount  
+  t: time period in years  
+  r: annual rate of interest
+
+Output
+simple interest = p * t * r`
